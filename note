@@ -1,0 +1,6 @@
+# 打包命令 pyinstaller -F -w -i logo.ico MainDialog.py
+# 使用前请阅读《Magni 产品装配测试说明》并安装所需环境(Command-Line-Tools_10_5_0_Installer_64.exe 与 python-3.7.4-amd64.exe)
+# ui文件由QT creator 产生 命令 pyuic5 -o MagniCameraCpuidSettingUi.py MagniCameraCpuidSettingUi.ui
+
+#update logs
+20200426 V1.3 -> 增加chipidlist重置
